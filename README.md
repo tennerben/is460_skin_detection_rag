@@ -1,4 +1,5 @@
 # Preview
+Code was initially done on google collab python notebooks, and have not been converted to base python. 
 
 ## Compiled Code
 Contains the python notebooks for the combined RAG + CNN application to run.
